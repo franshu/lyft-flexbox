@@ -56,7 +56,7 @@ h1{
 	color: rgba(11, 3, 7, 0);
 	border-color: rgba(11, 3, 7, 0);
 }
-#signup-btn.show-sign-up{
+#signup-btn.show-signup-btn{
 	color: #FF00BF;
 	border-color: #FF00BF;
 }
@@ -91,7 +91,7 @@ video#backgroundvid {
 	height: auto;
 	z-index: -100;
 
-	background: url('../images/hero-screen.png');
+	background: url('../images/hero-screen.png'); /* sacar captura de video*/
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
